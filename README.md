@@ -8,7 +8,9 @@ Import the math module to use the built-in functions for calculation
 ### Step 2: 
 Take two lists containing the points as the elemen
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula 
+![formula](https://user-images.githubusercontent.com/115707860/227723625-39ca208d-77aa-4b9d-8454-b21f73d502e1.jpg)
+
 ### Step 4: 
 Print the distance with two decimal places
 ### Step 5: 
