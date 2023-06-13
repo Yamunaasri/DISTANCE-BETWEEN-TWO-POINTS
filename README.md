@@ -33,6 +33,5 @@ print("{:.2f}".format(d))
 ### OUTPUT:
 ![distance](https://user-images.githubusercontent.com/115707860/227723548-af47207f-9e6f-4cdc-9586-3bd0d5f3cac9.png)
 
-
 ### RESULT:
 Thus the program to distance between two points is executed successfully.
